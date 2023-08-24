@@ -1,0 +1,16 @@
+.author-pic {
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+.blog-image {
+  width: 100%;
+}
+.author-details {
+  display: flex;
+  align-items: center;
+}
+.blog-info {
+  padding: 20px;
+}

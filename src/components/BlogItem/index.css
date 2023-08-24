@@ -1,0 +1,35 @@
+.image-size {
+  width: 160px;
+  height: 100px;
+  margin-right: 16px;
+}
+
+.avatar-url {
+  width: 30px;
+  height: 30px;
+  border-radius: 20px;
+}
+
+.item-container {
+  display: flex;
+  align-items: center;
+}
+
+.profile-name {
+  display: flex;
+  align-items: center;
+}
+
+.item-topic {
+  color: #8e8e8e;
+}
+
+.item-title {
+  color: black;
+  font-weight: 500;
+}
+
+.author-name {
+  color: #d3d3d3;
+  margin-left: 10px;
+}
